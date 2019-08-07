@@ -1,0 +1,14 @@
+C:\Users\rix\source\repos\websocketserver\websocketserver\bin\Debug\netcoreapp2.1\websocketserver.deps.json
+C:\Users\rix\source\repos\websocketserver\websocketserver\bin\Debug\netcoreapp2.1\websocketserver.runtimeconfig.json
+C:\Users\rix\source\repos\websocketserver\websocketserver\bin\Debug\netcoreapp2.1\websocketserver.runtimeconfig.dev.json
+C:\Users\rix\source\repos\websocketserver\websocketserver\bin\Debug\netcoreapp2.1\websocketserver.dll
+C:\Users\rix\source\repos\websocketserver\websocketserver\bin\Debug\netcoreapp2.1\websocketserver.pdb
+C:\Users\rix\source\repos\websocketserver\websocketserver\obj\Debug\netcoreapp2.1\websocketserver.csprojAssemblyReference.cache
+C:\Users\rix\source\repos\websocketserver\websocketserver\obj\Debug\netcoreapp2.1\websocketserver.csproj.CoreCompileInputs.cache
+C:\Users\rix\source\repos\websocketserver\websocketserver\obj\Debug\netcoreapp2.1\websocketserver.RazorAssemblyInfo.cache
+C:\Users\rix\source\repos\websocketserver\websocketserver\obj\Debug\netcoreapp2.1\websocketserver.RazorAssemblyInfo.cs
+C:\Users\rix\source\repos\websocketserver\websocketserver\obj\Debug\netcoreapp2.1\websocketserver.AssemblyInfoInputs.cache
+C:\Users\rix\source\repos\websocketserver\websocketserver\obj\Debug\netcoreapp2.1\websocketserver.AssemblyInfo.cs
+C:\Users\rix\source\repos\websocketserver\websocketserver\obj\Debug\netcoreapp2.1\websocketserver.RazorTargetAssemblyInfo.cache
+C:\Users\rix\source\repos\websocketserver\websocketserver\obj\Debug\netcoreapp2.1\websocketserver.dll
+C:\Users\rix\source\repos\websocketserver\websocketserver\obj\Debug\netcoreapp2.1\websocketserver.pdb

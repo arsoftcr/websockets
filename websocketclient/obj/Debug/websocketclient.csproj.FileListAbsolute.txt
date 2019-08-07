@@ -1,0 +1,9 @@
+C:\Users\rix\source\repos\websocketserver\websocketclient\bin\Debug\websocketclient.exe.config
+C:\Users\rix\source\repos\websocketserver\websocketclient\bin\Debug\websocketclient.exe
+C:\Users\rix\source\repos\websocketserver\websocketclient\bin\Debug\websocketclient.pdb
+C:\Users\rix\source\repos\websocketserver\websocketclient\obj\Debug\websocketclient.Form1.resources
+C:\Users\rix\source\repos\websocketserver\websocketclient\obj\Debug\websocketclient.Properties.Resources.resources
+C:\Users\rix\source\repos\websocketserver\websocketclient\obj\Debug\websocketclient.csproj.GenerateResource.cache
+C:\Users\rix\source\repos\websocketserver\websocketclient\obj\Debug\websocketclient.csproj.CoreCompileInputs.cache
+C:\Users\rix\source\repos\websocketserver\websocketclient\obj\Debug\websocketclient.exe
+C:\Users\rix\source\repos\websocketserver\websocketclient\obj\Debug\websocketclient.pdb
