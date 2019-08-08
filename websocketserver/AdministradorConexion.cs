@@ -16,18 +16,29 @@ namespace websocketserver
         private ConcurrentDictionary<string, WebSocket> conexiones =
             new ConcurrentDictionary<string, WebSocket>();
 
-        //obtener un socket
+
+        /// <summary>
+        /// Método para obtener el id de un websocket
+        /// </summary>
+        /// <param name="id"></param>
+        /// <returns></returns>
+
         public WebSocket obtenerSocketID(string id)
         {
             return conexiones.FirstOrDefault(x=>x.Key==id).Value;
         }
 
-        //obtener todos los sockets
+    
         public ConcurrentDictionary<string,WebSocket> obtenerConexiones()
         {
             return conexiones;
         }
 
+        /// <summary>
+        /// Método que obtiene el id de el socket que envió el mensaje
+        /// </summary>
+        /// <param name="socket"></param>
+        /// <returns></returns>
 
         public string obtenerID(WebSocket socket)
         {
@@ -35,6 +46,12 @@ namespace websocketserver
 
             
         }
+
+        /// <summary>
+        /// Método que desconecta el websocket del servidor
+        /// </summary>
+        /// <param name="id"></param>
+        /// <returns></returns>
 
         public async Task eliminarSocket(string id)
         {

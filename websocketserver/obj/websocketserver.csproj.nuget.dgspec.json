@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rix\\source\\repos\\websocketserver\\websocketserver\\websocketserver.csproj": {}
+    "C:\\Users\\rviquez\\Source\\Repos\\websocketsgithub\\websocketserver\\websocketserver.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rix\\source\\repos\\websocketserver\\websocketserver\\websocketserver.csproj": {
+    "C:\\Users\\rviquez\\Source\\Repos\\websocketsgithub\\websocketserver\\websocketserver.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rix\\source\\repos\\websocketserver\\websocketserver\\websocketserver.csproj",
+        "projectUniqueName": "C:\\Users\\rviquez\\Source\\Repos\\websocketsgithub\\websocketserver\\websocketserver.csproj",
         "projectName": "websocketserver",
-        "projectPath": "C:\\Users\\rix\\source\\repos\\websocketserver\\websocketserver\\websocketserver.csproj",
-        "packagesPath": "C:\\Users\\rix\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rix\\source\\repos\\websocketserver\\websocketserver\\obj\\",
+        "projectPath": "C:\\Users\\rviquez\\Source\\Repos\\websocketsgithub\\websocketserver\\websocketserver.csproj",
+        "packagesPath": "C:\\Users\\rviquez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rviquez\\Source\\Repos\\websocketsgithub\\websocketserver\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\rix\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\rviquez\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -62,7 +62,12 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true

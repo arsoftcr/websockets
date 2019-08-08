@@ -7,3 +7,13 @@ C:\Users\rix\source\repos\websocketserver\websocketclient\obj\Debug\websocketcli
 C:\Users\rix\source\repos\websocketserver\websocketclient\obj\Debug\websocketclient.csproj.CoreCompileInputs.cache
 C:\Users\rix\source\repos\websocketserver\websocketclient\obj\Debug\websocketclient.exe
 C:\Users\rix\source\repos\websocketserver\websocketclient\obj\Debug\websocketclient.pdb
+C:\Users\rviquez\Source\Repos\websocketsgithub\websocketclient\bin\Debug\websocketclient.exe.config
+C:\Users\rviquez\Source\Repos\websocketsgithub\websocketclient\bin\Debug\websocketclient.exe
+C:\Users\rviquez\Source\Repos\websocketsgithub\websocketclient\bin\Debug\websocketclient.pdb
+C:\Users\rviquez\Source\Repos\websocketsgithub\websocketclient\obj\Debug\websocketclient.csprojAssemblyReference.cache
+C:\Users\rviquez\Source\Repos\websocketsgithub\websocketclient\obj\Debug\websocketclient.Form1.resources
+C:\Users\rviquez\Source\Repos\websocketsgithub\websocketclient\obj\Debug\websocketclient.Properties.Resources.resources
+C:\Users\rviquez\Source\Repos\websocketsgithub\websocketclient\obj\Debug\websocketclient.csproj.GenerateResource.cache
+C:\Users\rviquez\Source\Repos\websocketsgithub\websocketclient\obj\Debug\websocketclient.csproj.CoreCompileInputs.cache
+C:\Users\rviquez\Source\Repos\websocketsgithub\websocketclient\obj\Debug\websocketclient.exe
+C:\Users\rviquez\Source\Repos\websocketsgithub\websocketclient\obj\Debug\websocketclient.pdb

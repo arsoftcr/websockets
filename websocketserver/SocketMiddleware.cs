@@ -22,8 +22,12 @@ namespace websocketserver
             Controlador = socket;
         }
 
+        /// <summary>
+        /// Este método debe llamarse Invoke o InvokeAsync
+        /// </summary>
+        /// <param name="contexto"></param>
+        /// <returns></returns>
 
-        //Este metodo debe llamarse Invoke o InvokeAsync
         public async  Task InvokeAsync(HttpContext contexto)
         {
             if (contexto.WebSockets.IsWebSocketRequest)
@@ -49,6 +53,13 @@ namespace websocketserver
             }
            
         }
+
+        /// <summary>
+        /// Método que escucha cuando se conecta un socket y espera por los mensajes que se van a recibir
+        /// </summary>
+        /// <param name="socket"></param>
+        /// <param name="mensaje"></param>
+        /// <returns></returns>
 
         private async Task Recibir(WebSocket socket,
             Action<WebSocketReceiveResult, byte[]>  mensaje)

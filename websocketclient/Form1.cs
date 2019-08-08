@@ -31,13 +31,8 @@ namespace websocketclient
          
             var enviar = Task.Run(async () => {
 
-                
-
-
-
-                while (!string.IsNullOrWhiteSpace(richTextBox1.Text) && enviado)
-                {
-                    var bytes = Encoding.UTF8.GetBytes(richTextBox1.Text);
+    
+                    var bytes = Encoding.UTF8.GetBytes(textBox1.Text);
 
 
 
@@ -45,11 +40,9 @@ namespace websocketclient
                         true, CancellationToken.None);
 
                     enviado = false;
-                }
+                
 
-
-
-                await cliente.CloseOutputAsync(WebSocketCloseStatus.NormalClosure, "Socket cerrado", CancellationToken.None);
+               // await cliente.CloseOutputAsync(WebSocketCloseStatus.NormalClosure, "Socket cerrado", CancellationToken.None);
 
             });
 

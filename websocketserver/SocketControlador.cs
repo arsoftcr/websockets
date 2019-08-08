@@ -20,6 +20,7 @@ namespace websocketserver
         }
 
 
+
         public virtual async Task Conexion(WebSocket socket)
         {
             await Task.Run(()=> {
@@ -40,7 +41,14 @@ namespace websocketserver
         }
 
 
-        public  async Task enviarMensaje(WebSocket socket,string mensaje)
+        /// <summary>
+        /// Método que envia los datos al cliente
+        /// </summary>
+        /// <param name="socket"></param>
+        /// <param name="mensaje"></param>
+        /// <returns></returns>
+
+        public async Task enviarMensaje(WebSocket socket,string mensaje)
         {
             if (socket.State==WebSocketState.Open)
             {
@@ -55,6 +63,12 @@ namespace websocketserver
             await enviarMensaje(Administrador.obtenerSocketID(id),mensaje);
             
         }
+
+        /// <summary>
+        /// Método que recorre los sockets conectados y ejecuta el método enviar mensaje
+        /// </summary>
+        /// <param name="mensaje"></param>
+        /// <returns></returns>
 
         public async Task enviarMensajeATodos(string mensaje)
         {
